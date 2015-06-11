@@ -1,2 +1,3 @@
 # RedirectBeforeNotFound
-Redirect before 404 occurs
+
+Warning: This is a starting point, by no means a working module.
